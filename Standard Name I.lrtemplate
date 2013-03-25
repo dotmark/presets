@@ -1,0 +1,15 @@
+s = {
+	deflated = {
+		{
+			name = "Standard Name I",
+			presetType = "Naming",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	id = "F32B61E4-D8DB-49DD-8DD3-9668B63B12DA",
+	internalName = "Standard Name",
+	title = "Standard Name I",
+	type = "Naming_Tokens",
+	version = 0,
+}

@@ -1,7 +1,7 @@
 s = {
 	id = "7C036591-DBC8-4870-B2EF-1331134F64CE",
 	internalName = "view-see-be.com",
-	title = "view-see-be.com",
+	title = "Share Export",
 	type = "Export",
 	value = {
 		collisionHandling = "ask",

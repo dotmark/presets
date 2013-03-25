@@ -1,7 +1,7 @@
 s = {
 	deflated = {
 		{
-			"Z",
+			"VZ",
 			{
 				value = "date_YY",
 			},
@@ -20,15 +20,15 @@ s = {
 			{
 				value = "date_Second",
 			},
-			name = "Standard Name",
+			name = "Standard Name II",
 			presetType = "Naming",
 		},
 		"AgTokenPresets",
 		"restoreTokenFromArchivedState",
 	},
-	id = "F32B61E4-D8DB-49DD-8DD3-9668B63B12DA",
-	internalName = "Standard Name",
-	title = "Standard Name",
+	id = "98A388FB-4F02-4CD2-A388-1647D6631EB6",
+	internalName = "Standard Name II",
+	title = "Standard Name II",
 	type = "Naming_Tokens",
 	version = 0,
 }
